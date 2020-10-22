@@ -6,6 +6,10 @@
 [在线书籍](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 [源码](https://github.com/remzi-arpacidusseau/ostep-code)
 
+# 条件变量
+
+[Linux条件变量pthread_condition细节（为何先加锁，pthread_cond_wait为何先解锁，返回时又加锁）](https://blog.csdn.net/shichao1470/article/details/89856443)
+
 ## 算法
 
 ### Leecode
