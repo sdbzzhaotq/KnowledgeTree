@@ -2,6 +2,8 @@
 
 ## 操作系统
 
+[MIT-Challenge](https://chenyuxiaodhr.github.io/zh-CN/CS-Learning/MIT-Challenge/)
+
 # Operating Systems: Three Easy Pieces
 [在线书籍](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 [源码](https://github.com/remzi-arpacidusseau/ostep-code)
