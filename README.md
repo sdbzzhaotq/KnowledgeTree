@@ -1,8 +1,14 @@
+# 帖子大杂烩
+
+[YouTube 上有哪些计算机方面的值得推荐的公开课](https://www.zhihu.com/question/49071324)
+
+[MIT-Challenge](https://chenyuxiaodhr.github.io/zh-CN/CS-Learning/MIT-Challenge/)
+
 # 计算机
 
 ## 操作系统
 
-[MIT-Challenge](https://chenyuxiaodhr.github.io/zh-CN/CS-Learning/MIT-Challenge/)
+
 
 # Operating Systems: Three Easy Pieces
 [在线书籍](http://pages.cs.wisc.edu/~remzi/OSTEP/)
