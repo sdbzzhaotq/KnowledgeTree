@@ -1,3 +1,17 @@
+# 补课路线图
+## 操作系统
+看书
+
+## 数据结构/算法
+LeetCode
+## C++
+
+C++ Primer
+
+
+
+
+
 # 帖子大杂烩
 
 [YouTube 上有哪些计算机方面的值得推荐的公开课](https://www.zhihu.com/question/49071324)
