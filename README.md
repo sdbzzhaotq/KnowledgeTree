@@ -2,6 +2,8 @@
 ## 操作系统
 看书
 
+公开课 北京大学 操作系统原理（Operating Systems） [coursera](https://www.coursera.org/learn/os-pku/home/welcome)
+
 ## 数据结构/算法
 LeetCode
 ## C++
