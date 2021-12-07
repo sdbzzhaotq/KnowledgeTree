@@ -1,25 +1,66 @@
 # 补课路线图
 
+## 写在前面
+Notion非常好，用它来记录平时碰到的知识点，时常整理汇集一下。
+
+暂时的学习知识点顺序:<br>
+1. C++ 11 以侯捷为主
+2. C++ 并发编程
+3. LeetCode
+4. 深度学习
+5. 线性代数
+
+*****
+
 ## Tips
 老码农总结的常用变量及其缩写，[链接](https://zhuanlan.zhihu.com/p/395995314)，自己备份一下，[本地链接](tips/abbr.md)
-## 1. C++ 并发编程
+*****
+
+## 1. C++ (C++ 11, 并发编程)
+
+*****
+
+## 2. Linux
+
+### 1. 定时器
+
+发现一个很好的[资源](http://www.ilovecpp.com/2019/01/16/timer/#more)<br>
+[源代码](https://gist.github.com/baixiangcpp/b2199f1f1c7108f22f47d2ca617f6960)
+
+<details>
+<summary>代码</summary>
+<pre>
+<code>
+int dispatch()
+{
+    ...
+    TimerManager tm;
+    tm.addTimer(1000, []() { std::cout << "hello world" << std::endl; }, NULL);
+    tm.addTimer(5000, []() { std::cout << "hello baixiancpp" << std::endl; }, NULL);
+    for(;;)
+    {
+        int ret = epoll_wait(epollfd,events,events_num,tm.getRecentTimeout());
+        tm.takeAllTimeout();
+    }
+    ...
+}
+</code>
+</pre>
+</details>
 
 
 
-## 操作系统
-看书
+***
+
+## 3. 操作系统
+
 
 公开课 北京大学 操作系统原理（Operating Systems） [coursera](https://www.coursera.org/learn/os-pku/home/welcome)
 
 ## 数据结构/算法
 LeetCode
-## C++
 
-C++ Primer
-
-
-
-
+*****
 
 # 帖子大杂烩
 
@@ -34,7 +75,7 @@ C++ Primer
 
 
 # Operating Systems: Three Easy Pieces
-[在线书籍](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+[在线书籍](http://pages.cs.wisc.edu/~remzi/OSTEP/)<br>
 [源码](https://github.com/remzi-arpacidusseau/ostep-code)
 
 # 同步
