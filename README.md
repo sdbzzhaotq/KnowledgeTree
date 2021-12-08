@@ -57,8 +57,14 @@ int dispatch()
 
 公开课 北京大学 操作系统原理（Operating Systems） [coursera](https://www.coursera.org/learn/os-pku/home/welcome)
 
-## 数据结构/算法
+***
+## 4. 数据结构/算法
 LeetCode
+
+*** 
+## 5. OpenCV
+一个很好的YouTube视频，[LEARN OPENCV C++ in 4 HOURS | Including 3x Projects | Computer Vision](https://www.youtube.com/watch?v=2FYm3GOonhk)
+
 
 *****
 
