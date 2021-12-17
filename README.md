@@ -17,6 +17,9 @@ Notion非常好，用它来记录平时碰到的知识点，时常整理汇集�
 *****
 
 ## 1. C++ (C++ 11, 并发编程)
+[高清 1080P 侯捷——C++11新特性](https://www.youtube.com/watch?v=TJIb9TGfDIw&list=PL-X74YXt4LVYo_bk-jHMV5T3LHRYRbZoH) <br>
+[P1](https://www.youtube.com/watch?v=Ko2gkRf548o)
+[P14](https://www.youtube.com/watch?v=sxBR8LK33Cg)
 
 *****
 
@@ -64,7 +67,7 @@ LeetCode
 *** 
 ## 5. OpenCV
 一个很好的YouTube视频，[LEARN OPENCV C++ in 4 HOURS | Including 3x Projects | Computer Vision](https://www.youtube.com/watch?v=2FYm3GOonhk)
-
+已经下载1080P资源，并上传至OneDrive[共享](https://khaitanpublicschool-my.sharepoint.com/:v:/g/personal/ztq519_odcn_live/ET5pqFKzdUxBkRaaTuF5PSEB4IKJsCB8HjNOVd27DColxw?e=YDhirx)
 
 *****
 
