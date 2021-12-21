@@ -101,7 +101,7 @@ LeetCode
 # 数学
 
 ## 线性代数
-
+https://github.com/liuguoyou/Introduction-to-Linear-Algebra-5th-Edition---EE16A
 # 英语
 
 ## 单词本
